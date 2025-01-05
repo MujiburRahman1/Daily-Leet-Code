@@ -1,6 +1,5 @@
 # Daily-Leet-Code
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
+It is 1st of January 2025. Today I have started my journey of Google interview preparation, this is the very first day of learning Data Structures and Algorithms. From today(first day) until my first day Google, I will be practicing and learning DSA and coding and keep updating my profile on daily basis. I will challenge my comfort zone and will keep learning as learning has no ending. 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
