@@ -6,6 +6,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -26,5 +27,6 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
