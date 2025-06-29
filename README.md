@@ -24,6 +24,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
