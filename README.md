@@ -6,6 +6,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0053-maximum-subarray) |
@@ -34,6 +35,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -57,4 +59,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
