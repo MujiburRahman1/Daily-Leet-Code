@@ -11,6 +11,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0035-search-insert-position](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1603-running-sum-of-1d-array) |
@@ -49,6 +50,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [0053-maximum-subarray](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -63,4 +65,5 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
