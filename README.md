@@ -29,6 +29,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0242-valid-anagram) |
@@ -66,4 +67,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [0011-container-with-most-water](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
