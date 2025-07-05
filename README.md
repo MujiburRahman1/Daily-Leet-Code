@@ -15,6 +15,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
 | ------- |
