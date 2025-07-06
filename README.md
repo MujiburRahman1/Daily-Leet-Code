@@ -16,6 +16,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0217-contains-duplicate](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1833-find-the-highest-altitude) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0125-valid-palindrome](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +75,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
