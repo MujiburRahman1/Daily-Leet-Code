@@ -17,6 +17,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1833-find-the-highest-altitude) |
+| [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -81,5 +82,6 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
