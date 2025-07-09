@@ -13,6 +13,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0485-max-consecutive-ones) |
@@ -52,6 +53,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0027-remove-element](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -93,6 +95,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
