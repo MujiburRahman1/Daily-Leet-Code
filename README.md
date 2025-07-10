@@ -48,6 +48,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0344-reverse-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
+| [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0344-reverse-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
