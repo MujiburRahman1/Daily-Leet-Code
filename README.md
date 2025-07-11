@@ -47,6 +47,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0242-valid-anagram](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -96,12 +97,14 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
