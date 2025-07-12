@@ -46,6 +46,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0125-valid-palindrome](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
@@ -61,6 +62,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0189-rotate-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
