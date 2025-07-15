@@ -53,6 +53,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
@@ -119,4 +120,5 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
