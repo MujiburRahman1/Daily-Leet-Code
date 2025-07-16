@@ -17,6 +17,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0217-contains-duplicate](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1580-shuffle-the-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1603-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0205-isomorphic-strings](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 ## Sorting
@@ -100,6 +102,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -121,4 +124,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0812-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
