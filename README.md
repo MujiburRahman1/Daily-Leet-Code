@@ -19,6 +19,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0485-max-consecutive-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -34,6 +35,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0242-valid-anagram](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
