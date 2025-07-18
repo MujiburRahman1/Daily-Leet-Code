@@ -26,6 +26,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1833-find-the-highest-altitude](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,4 +132,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
