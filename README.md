@@ -42,6 +42,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1472-increasing-decreasing-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -68,6 +69,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0812-rotate-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0812-rotate-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1472-increasing-decreasing-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1472-increasing-decreasing-string) |
 | [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -135,6 +137,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1472-increasing-decreasing-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 ## String Matching
 |  |
