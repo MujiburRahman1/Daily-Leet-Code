@@ -30,6 +30,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1472-increasing-decreasing-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0242-valid-anagram](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
+| [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -74,6 +77,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
