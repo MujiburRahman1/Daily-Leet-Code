@@ -68,6 +68,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0812-rotate-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1472-increasing-decreasing-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1472-increasing-decreasing-string) |
 | [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
