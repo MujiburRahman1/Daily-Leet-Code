@@ -31,6 +31,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
