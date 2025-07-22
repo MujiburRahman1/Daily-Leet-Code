@@ -21,6 +21,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1319-unique-number-of-occurrences](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1580-shuffle-the-array) |
@@ -43,6 +44,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1319-unique-number-of-occurrences](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1472-increasing-decreasing-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
