@@ -9,6 +9,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0011-container-with-most-water](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -39,6 +40,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0217-contains-duplicate) |
@@ -59,6 +61,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0229-majority-element-ii) |
@@ -71,6 +74,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0205-isomorphic-strings) |
