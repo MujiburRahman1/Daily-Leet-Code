@@ -7,6 +7,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [0001-two-sum](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0049-group-anagrams) |
@@ -66,6 +67,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0169-majority-element) |
@@ -107,6 +109,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0125-valid-palindrome) |
