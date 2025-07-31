@@ -161,6 +161,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
@@ -216,4 +217,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
