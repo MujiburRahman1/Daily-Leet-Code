@@ -104,6 +104,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1472-increasing-decreasing-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1472-increasing-decreasing-string) |
 | [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2128-reverse-prefix-of-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -124,6 +125,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0958-sort-array-by-parity-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Prefix Sum
@@ -160,6 +162,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [0020-valid-parentheses](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
+| [2128-reverse-prefix-of-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
