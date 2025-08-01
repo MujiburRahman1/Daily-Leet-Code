@@ -103,6 +103,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1472-increasing-decreasing-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1472-increasing-decreasing-string) |
+| [1666-make-the-string-great](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1666-make-the-string-great) |
 | [1894-merge-strings-alternately](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2128-reverse-prefix-of-word) |
@@ -166,6 +167,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0155-min-stack](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0874-backspace-string-compare) |
+| [1666-make-the-string-great](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
