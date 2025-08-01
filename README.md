@@ -98,6 +98,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0459-repeated-substring-pattern](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0874-backspace-string-compare) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -121,6 +122,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0344-reverse-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -163,11 +165,13 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0020-valid-parentheses](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0874-backspace-string-compare](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0874-backspace-string-compare) |
 | [2128-reverse-prefix-of-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
