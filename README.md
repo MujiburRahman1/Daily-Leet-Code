@@ -100,6 +100,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0812-rotate-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0874-backspace-string-compare) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -168,6 +169,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0155-min-stack](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1666-make-the-string-great](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2128-reverse-prefix-of-word) |
