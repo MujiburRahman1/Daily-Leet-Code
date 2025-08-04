@@ -1,20 +1,15 @@
-from typing import List
-
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
-        # Arrays to store elements less than, equal to, and greater than pivot
-        less_than = []
-        equal_to = []
-        greater_than = []
-
-        # Traverse the input array and partition elements
+        less = []
+        more = []
+        equal = []
+        ans = []
         for num in nums:
             if num < pivot:
-                less_than.append(num)
+                less.append(num)
             elif num == pivot:
-                equal_to.append(num)
+                equal.append(num)
             else:
-                greater_than.append(num)
-
-        # Combine all parts while preserving relative order
-        return less_than + equal_to + greater_than
+                more.append(num)
+        ans = less + equal + more
+        return ans
