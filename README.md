@@ -24,6 +24,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0283-move-zeroes](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0940-fruit-into-baskets](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0451-sort-characters-by-frequency](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0782-jewels-and-stones) |
+| [0940-fruit-into-baskets](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -234,4 +236,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0155-min-stack) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
