@@ -38,6 +38,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1833-find-the-highest-altitude](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
@@ -141,6 +142,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1833-find-the-highest-altitude) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0035-search-insert-position](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0268-missing-number) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,4 +243,5 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0940-fruit-into-baskets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
