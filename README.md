@@ -205,6 +205,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [0189-rotate-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -234,6 +235,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -265,4 +267,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3791-fruits-into-baskets-iii) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
