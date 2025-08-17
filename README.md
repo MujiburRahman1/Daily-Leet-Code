@@ -156,6 +156,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0392-is-subsequence) |
+| [0867-new-21-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0867-new-21-game) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Binary Search
 |  |
@@ -208,6 +209,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0268-missing-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
+| [0867-new-21-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -257,6 +259,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Segment Tree
@@ -273,4 +276,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0342-power-of-four) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
