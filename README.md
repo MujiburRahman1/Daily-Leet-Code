@@ -24,6 +24,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0283-move-zeroes](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0679-24-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
@@ -209,6 +210,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0268-missing-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
+| [0679-24-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -280,4 +282,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
