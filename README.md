@@ -48,6 +48,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3791-fruits-into-baskets-iii) |
@@ -300,5 +301,10 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
