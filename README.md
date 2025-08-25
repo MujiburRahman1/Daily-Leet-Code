@@ -24,6 +24,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0283-move-zeroes](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0941-sort-array-by-parity) |
@@ -208,6 +209,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -302,6 +304,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
