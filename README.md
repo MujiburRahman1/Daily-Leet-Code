@@ -53,6 +53,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -95,6 +96,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0958-sort-array-by-parity-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
+| [3748-sort-matrix-by-diagonals](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
 | ------- |
@@ -312,6 +314,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3748-sort-matrix-by-diagonals) |
 ## Enumeration
 |  |
 | ------- |
