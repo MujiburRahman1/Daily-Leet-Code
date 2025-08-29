@@ -231,6 +231,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1448-maximum-69-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Counting
 |  |
 | ------- |
