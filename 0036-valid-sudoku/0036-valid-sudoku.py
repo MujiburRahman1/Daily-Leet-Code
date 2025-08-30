@@ -1,15 +1,14 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        rows = [[False] * 9 for _ in range(9)]
-        cols = [[False] * 9 for _ in range(9)]
-        boxes = [[False] * 9 for _ in range(9)]
-
-        for i in range(9):
-            for j in range(9):
-                if board[i][j] != '.':
-                    num = ord(board[i][j]) - ord('1')
-                    boxIndex = (i // 3) * 3 + (j // 3)
-                    if rows[i][num] or cols[j][num] or boxes[boxIndex][num]:
+        row_set=set()
+        col_set=set()
+        for r,row in enumerate(board):
+            for c,val in enumerate(row):
+                if val!='.':
+                    if(((r,val) in row_set) or ((c,val) in col_set) or ((r//3,c//3,val) in col_set)):
                         return False
-                    rows[i][num] = cols[j][num] = boxes[boxIndex][num] = True
+                    else:
+                        row_set.add((r,val))
+                        col_set.add((c,val))
+                        col_set.add((r//3,c//3,val))
         return True
