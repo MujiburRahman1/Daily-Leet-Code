@@ -10,6 +10,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0015-3sum](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mujib2660/Daily-Leet-Code/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0205-isomorphic-strings) |
@@ -309,6 +311,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1628-count-submatrices-with-all-ones) |
