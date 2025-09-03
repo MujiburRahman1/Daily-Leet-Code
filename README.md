@@ -53,6 +53,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -101,6 +102,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0958-sort-array-by-parity-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
@@ -237,6 +239,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1448-maximum-69-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Counting
 |  |
@@ -329,9 +332,14 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Enumeration
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Memoization
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
