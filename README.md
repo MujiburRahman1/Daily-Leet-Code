@@ -241,6 +241,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [2432-number-of-zero-filled-subarrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
 | ------- |
