@@ -272,6 +272,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | ------- |
 | [0268-missing-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0342-power-of-four) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,6 +334,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Memoization
@@ -343,4 +345,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
