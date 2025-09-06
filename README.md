@@ -57,6 +57,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3791-fruits-into-baskets-iii) |
@@ -241,6 +242,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [2432-number-of-zero-filled-subarrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
@@ -273,6 +275,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0268-missing-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0342-power-of-four) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Depth-First Search
 |  |
 | ------- |
