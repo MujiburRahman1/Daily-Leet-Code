@@ -181,6 +181,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1628-count-submatrices-with-all-ones) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search
 |  |
@@ -228,6 +229,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -354,4 +356,8 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
