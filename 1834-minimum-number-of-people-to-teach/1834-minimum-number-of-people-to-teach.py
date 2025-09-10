@@ -9,15 +9,15 @@ class Solution:
         def add(u: int) -> None:
             if vis[u]:
                 return
-            vis[u] = True  # 避免重复统计
+            vis[u] = True 
             nonlocal total
             total += 1
             for x in languages[u]:
                 cnt[x] += 1
 
         for u, v in friendships:
-            # 减一，下标从 0 开始
-            if learned[u - 1].isdisjoint(learned[v - 1]):  # 无交集
+            
+            if learned[u - 1].isdisjoint(learned[v - 1]): 
                 add(u - 1)
                 add(v - 1)
 
