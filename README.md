@@ -44,6 +44,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1628-count-submatrices-with-all-ones](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1628-count-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1833-find-the-highest-altitude) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1917-maximum-average-pass-ratio) |
 | [2058-concatenation-of-array](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -84,6 +85,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [1392-find-the-difference-of-two-arrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1472-increasing-decreasing-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1472-increasing-decreasing-string) |
 | [1635-number-of-good-pairs](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -205,6 +207,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [0680-valid-palindrome-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/1917-maximum-average-pass-ratio) |
 ## Stack
 |  |
