@@ -142,6 +142,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2502-sort-the-people](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2502-sort-the-people) |
+| [3462-vowels-game-in-a-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3462-vowels-game-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +250,7 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 | [2432-number-of-zero-filled-subarrays](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3830-find-closest-person) |
 ## Counting
@@ -359,8 +361,13 @@ It is 1st of January 2025. Today I have started my journey of Google interview p
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3462-vowels-game-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/MujiburRahman1/Daily-Leet-Code/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
